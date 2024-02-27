@@ -14,7 +14,7 @@ const datos = {
     enlaceDrive: "https://drive.google.com/drive/folders/1E1I6BWsCaPTgBSqgvm4tJg08onyIEWLh?usp=sharing", //OK
     enlacePlanEstudios: "https://aulasvirtuales.bue.edu.ar/pluginfile.php/1836737/mod_resource/content/4/Plan%20de%20estudios-%20estudiantes-%20Codo%20a%20Codo%20Inicial%202024.pdf", //OK
     enlaceAV: "https://aulasvirtuales.bue.edu.ar/login/index.php",
-    titulo: "Links importantes 24078"
+    titulo: "Links importantes 24078",
 };
 
 document.addEventListener('DOMContentLoaded', function () {
